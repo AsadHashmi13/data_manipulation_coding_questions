@@ -8,52 +8,7 @@ This repository contains multiple Python Jupyter Notebooks, each focusing on dif
 - Solutions are provided and explained step by step.
 - Datasets used are either included in the repository or generated within the notebooks.
 
-## 📝 Notebooks List
-
-The repository includes (but is not limited to) the following topics:
-
-- DataFrame creation and manipulation
-- Data indexing and selection
-- Handling missing data
-- Grouping and aggregation
-- Merging and joining datasets
-- Working with dates and times
-- Data visualization with Pandas
-
 Check the [`notebooks/`](notebooks/) directory for the complete list of questions and their solutions.
-
-## 🚀 Getting Started
-
-### Prerequisites
-
-- Python 3.7 or higher
-- [Jupyter Notebook](https://jupyter.org/) or [JupyterLab](https://jupyterlab.readthedocs.io/)
-- Pandas library
-
-### Installation
-
-1. **Clone this repo:**
-    ```bash
-    git clone https://github.com/yourusername/pandas-practice-notebooks.git
-    cd pandas-practice-notebooks
-    ```
-
-2. **Create a virtual environment (optional but recommended):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3. **Install requirements:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. **Start Jupyter Notebook:**
-    ```bash
-    jupyter notebook
-    ```
-    Then open the desired notebook from the `notebooks/` directory.
 
 ## 🏗️ Structure
 
@@ -80,7 +35,7 @@ This repository is licensed under the MIT License. See [LICENSE](LICENSE) for de
 
 ## 📬 Contact
 
-For questions or suggestions, open an issue or contact [yourusername](https://github.com/yourusername).
+For questions or suggestions, open an issue or contact [AsadHashmi13](https://github.com/AsadHashmi13).
 
 ---
 
