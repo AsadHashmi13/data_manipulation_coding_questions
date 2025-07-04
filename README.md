@@ -21,7 +21,6 @@ pandas-practice-notebooks/
 │   └── ...
 ├── datasets/
 │   └── (CSV files if needed)
-├── requirements.txt
 └── README.md
 ```
 
